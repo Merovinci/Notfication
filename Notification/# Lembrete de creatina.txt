@@ -1,0 +1,20 @@
+# Lembrete de creatina
+
+Este projeto exibe uma notificação no Windows para lembrar o usuário de tomar creatina.
+
+## Requisitos
+- Windows 10 ou 11
+- Python 3.12 ou superior
+- Biblioteca `winotify`
+
+## Passo a passo
+
+1. Instale o Python 3.12+
+   - Baixe em: https://www.python.org/downloads/
+   - Durante a instalação, marque a opção "Add Python to PATH"
+
+2. Abra o terminal (Prompt de Comando ou PowerShell)
+
+3. Acesse a pasta do projeto:
+   ```bash
+   cd C:\caminho\para\pasta\Notification
